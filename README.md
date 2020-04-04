@@ -3,7 +3,7 @@ Contains the files as per Final Project request for Getting and Cleaning data co
 
 ## Overview
 
-This repository was to complete the final project assignment ofof Getting and Cleaning Data Coursera course. 
+This repository was crated in order to complete the final project assignment ofof Getting and Cleaning Data Coursera course. 
 
 The Study Design is as follows:
 
