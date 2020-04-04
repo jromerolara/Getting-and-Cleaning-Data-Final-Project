@@ -1,17 +1,19 @@
-# Tidy data set description
+# Resulting Data set description
+
+After processing according to the instructions the resulting file is named "tidyDataSet.txt"
 
 ### The variables in the tidy data
-Tidy data contains 180 rows and 81 columns. Each row has averaged variables for each subject and each activity.
+The "tidyDataSet.txt" file contains 180 rows and 81 columns. Each row has averaged variables for each subject and each activity.
 
 ### Only all the variables estimated from mean and standard deviation in the tidy set were kept.
 
 * mean(): Mean value
 * std(): Standard deviation
 
-### The data were averaged based on subject and activity group.
+### The resulting data were averaged based on subject and activity group.
 
 Subject column is numbered sequentially from 1 to 30.
-Activity column has 6 types as listed below.
+Activity column has 6 types:
 1. WALKING
 2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS
@@ -19,7 +21,7 @@ Activity column has 6 types as listed below.
 5. STANDING
 6. LAYING
 
-The column names for the file are as follows:
+The column names for the "tidyDataSet.txt" file are as follows:
 
  [1] "activity_desc"                   "subject"                         "tBodyAcc-mean()-X"              
  [4] "tBodyAcc-mean()-Y"               "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"               
