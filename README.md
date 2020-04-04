@@ -3,11 +3,11 @@ Contains the files as per Final Project request for Getting and Cleaning data co
 
 ## Overview
 
-This repository was crated in order to complete the final project assignment ofof Getting and Cleaning Data Coursera course. 
+This repository was crated in order to complete the final project assignment of Getting and Cleaning Data Coursera course. 
 
 The Study Design is as follows:
 
-I opted to mostly use the "dplyr" Library in order to chive 2 main goals
+I opted to mostly use the "dplyr" Library in order to achive 2 main goals
 * dplyr optimizes and speeds up processing speed
 * dplyr library simplifies from my perspective the handling of data, commands tend to be easier to use
 
