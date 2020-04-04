@@ -24,9 +24,9 @@ I opted to mostly use the "dplyr" Library in order to chive 2 main goals
 The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.
 
 ## Procesing Script
-The file run_analysis.R contains the code to process raw data acocring to the Instrucions provided. It has been uploaded to this repository at the following url: 
+The file run_analysis.R contains the code to process raw data acocring to the Instrucions provided. It has been uploaded to this repository at the following url: https://github.com/jromerolara/Getting-and-Cleaning-Data-Final-Project/blob/master/run_analysis.R
 
 ### Tidy dataset
 
-After all processin occurs the  
+After all processing occurs via the run_analysis.R file, the code outputs a file named: "tidyDataSet.txt", which you may find @   
 The new generated dataset contained variables calculated based on the mean and standard deviation. Each row of the dataset is an average of each activity type for all subjects.
